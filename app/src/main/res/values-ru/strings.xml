@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProductsExplorer</string>
+    <string name="no">Нет</string>
+    <string name="yes">Да</string>
+    <string name="cancel">Отмена</string>
+    <string name="accept">Принять</string>
+    <string name="nothing_found">Ничего не найдено</string>
+    <string name="list_of_products">Список продуктов</string>
+    <string name="product_search">Поиск товаров</string>
+    <string name="amount">Количество товара</string>
+    <string name="deleting">Удаление товара</string>
+    <string name="rusure">Вы действительно хотите удалить выбранный товар?</string>
+    <string name="in_stock">На складе</string>
+    <string name="add_date">Дата добавления</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProductsExplorer</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="accept">Accept</string>
+    <string name="nothing_found">Nothing found</string>
+    <string name="list_of_products">List of products</string>
+    <string name="product_search">Product search</string>
+    <string name="amount">Amount of product</string>
+    <string name="deleting">Deleting an item</string>
+    <string name="rusure">Do you really want to delete the selected item?</string>
+    <string name="in_stock">In stock</string>
+    <string name="add_date">Add date</string>
+</resources>
